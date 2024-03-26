@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "UUID": "5102eb60-1f9f-4e34-abb6-21e61e31fda1",
+            "projectName": "project-1",
+            "startDate": "1954-03-24",
+            "status": "active",
+            "stopDate": "1954-03-28",
+            "totalSubmissions": 253453,
+            "description": "This is the first project, currently active. It started on March 24, 1954, and is scheduled to end on March 28, 1954. It has a total of 253,453 submissions."
+        },
+        {
+            "UUID": "31561032-33bb-4d4f-ba1d-22bf2012f926",
+            "projectName": "project-2",
+            "startDate": "1954-03-24",
+            "status": "inactive",
+            "stopDate": "1954-03-28",
+            "totalSubmissions": 2355,
+            "description": "This is the second project, currently inactive. It started on March 24, 1954, and is scheduled to end on March 28, 1954. It has a total of 2,355 submissions."
+        },
+        {
+            "UUID": "a67de8b7-3d1f-492e-831e-9d2a5f88e8e3",
+            "projectName": "project-3",
+            "startDate": "1954-03-25",
+            "status": "active",
+            "stopDate": "1954-03-30",
+            "totalSubmissions": 12000,
+            "description": "This is the third project, currently active. It started on March 25, 1954, and is scheduled to end on March 30, 1954. It has a total of 12,000 submissions."
+        },
+        {
+            "UUID": "f1b5d268-225b-45d1-ae6d-19e23ccad1b2",
+            "projectName": "project-4",
+            "startDate": "1954-03-26",
+            "status": "inactive",
+            "stopDate": "1954-03-28",
+            "totalSubmissions": 1789,
+            "description": "This is the fourth project, currently inactive. It started on March 26, 1954, and is scheduled to end on March 28, 1954. It has a total of 1,789 submissions."
+        },
+        {
+            "UUID": "bc0e71fb-4a5e-4c9a-a0d4-cde3020be21e",
+            "projectName": "project-5",
+            "startDate": "1954-03-27",
+            "status": "active",
+            "stopDate": "1954-03-29",
+            "totalSubmissions": 50000,
+            "description": "This is the fifth project, currently active. It started on March 27, 1954, and is scheduled to end on March 29, 1954. It has a total of 50,000 submissions."
+        }
+    ]
+}
