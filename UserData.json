@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "uuid": "01be7a10-8c18-4fa5-b09e-35a1f520c1c1",
+      "name": "John Doe",
+      "role": "Developer",
+      "email": "john.doe@example.com",
+      "password": "P@ssw0rd",
+      "addedname": "John",
+      "added": "2024-05-02",
+      "status": "active",
+      "emailstatus": "verified"
+    },
+    {
+      "uuid": "7b6860ec-7396-4e25-9f63-f8982b4169ef",
+      "name": "Jane Smith",
+      "role": "Designer",
+      "email": "jane.smith@example.com",
+      "password": "Secret123",
+      "addedname": "Ocare",
+      "added": "2024-05-01",
+      "status": "inactive",
+      "emailstatus": "not_verified"
+    },
+    {
+      "uuid": "d47c8e51-2c33-48af-892c-5a123821ab09",
+      "name": "Alice Johnson",
+      "role": "Manager",
+      "email": "alice.johnson@example.com",
+      "password": "SecurePassword",
+      "addedname": "Ocare",
+      "added": "2024-04-30",
+      "status": "active",
+      "emailstatus": "verified"
+    },
+    {
+      "uuid": "45b48854-1f9e-4a1b-a9bb-d6ad7c1f8b7c",
+      "name": "Bob Brown",
+      "role": "Engineer",
+      "email": "bob.brown@example.com",
+      "password": "Brownie456",
+      "addedname": "Ocare",
+      "added": "2024-04-29",
+      "status": "active",
+      "emailstatus": "verified"
+    },
+    {
+      "uuid": "74358e6d-ec6d-4845-b42f-f07b1b518e06",
+      "name": "Emma Davis",
+      "role": "Analyst",
+      "email": "emma.davis@example.com",
+      "password": "Data789",
+      "addedname": "SCB",
+      "added": "2024-04-28",
+      "status": "inactive",
+      "emailstatus": "not_verified"
+    },
+    {
+      "uuid": "7e9ed02a-af49-4c5e-9477-f06ac77fa7b2",
+      "name": "Michael Wilson",
+      "role": "Coordinator",
+      "email": "michael.wilson@example.com",
+      "password": "Coordinator123",
+      "addedname": "Ocare",
+      "added": "2024-04-27",
+      "status": "active",
+      "emailstatus": "verified"
+    },
+    {
+      "uuid": "e1ad4464-cc56-4518-bd47-26fb7a63bc14",
+      "name": "Sophia Garcia",
+      "role": "Docter",
+      "email": "sophia.garcia@example.com",
+      "password": "Admin456",
+      "addedname": "SCB",
+      "added": "2024-04-26",
+      "status": "active",
+      "emailstatus": "not_verified"
+    },
+    {
+      "uuid": "14ef5878-bdcb-4e3a-8df4-4545959e3ab9",
+      "name": "William Martinez",
+      "role": "Supervisor",
+      "email": "william.martinez@example.com",
+      "password": "Supervisor789",
+      "addedname": "Ocare",
+      "added": "2024-04-25",
+      "status": "inactive",
+      "emailstatus": "not_verified"
+    },
+    {
+      "uuid": "b87fd0a7-71b8-4a78-bfb4-7d58bece749c",
+      "name": "Olivia Lopez",
+      "role": "Assistant",
+      "email": "olivia.lopez@example.com",
+      "password": "Assistant123",
+      "addedname": "Ocare",
+      "added": "2024-04-24",
+      "status": "active",
+      "emailstatus": "verified"
+    },
+    {
+      "uuid": "fbb43d77-655d-4bc0-9b9f-740f66640b9d",
+      "name": "James Taylor",
+      "role": "Consultant",
+      "email": "james.taylor@example.com",
+      "password": "Consultant456",
+      "addedname": "Ocare",
+      "added": "2024-04-23",
+      "status": "inactive",
+      "emailstatus": "verified"
+    }
+  ]
+}
