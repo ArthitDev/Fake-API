@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "label": "Administrator",
+            "uuid": "6c3cf524-3668-495b-bb2d-9a576e1ad5f5"
+        },
+        {
+            "label": "Registrar/Staff",
+            "uuid": "6db9647c-53d7-4653-b99f-d400a958784f"
+        },
+        {
+            "label": "Doctor",
+            "uuid": "4b43dcb5-aad7-4625-9e31-fc2c38788536"
+        },
+        {
+            "label": "Nurse/MT",
+            "uuid": "900c334a-5b31-43aa-b62e-dd7c00b6ffe9"
+        },
+        {
+            "label": "Guest",
+            "uuid": "515e86b4-c7f9-4010-b1d2-9b28bca00fed"
+        }
+    ],
+    "status": "success"
+}
