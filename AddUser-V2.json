@@ -1,0 +1,157 @@
+{
+    "data": [
+        {
+            "activation": true,
+            "created_at": "Tue, 23 Jan 2024 03:21:36 GMT",
+            "created_by": {
+                "first_name": "fname",
+                "last_name": "lname"
+            },
+            "expired": "Sun, 31 Dec 2023 23:59:59 GMT",
+            "personal_info": {
+                "email": "bank@ocare.co.th",
+                "first_name": "ทดสอบ",
+                "last_name": "ระบบ",
+                "verify": true
+            },
+            "restriction": {
+                "area": {
+                    "DistrictIDs": [],
+                    "ProvinceIDs": [],
+                    "RegionIDs": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "SubDistrictIDs": []
+                },
+                "booking": [],
+                "organization": {
+                    "CompanyIDs": [],
+                    "DepartmentIDs": [],
+                    "PositionIDs": []
+                }
+            },
+            "services": [
+                "Joey Doctor : Administrator",
+                "Setting : Administrator",
+                "Joey Doctor : Administrator",
+                "Joey Doctor : Administrator",
+                "Joey Doctor : Administrator"
+            ],
+            "user_id": "e9a0695c-d1fc-4b27-b59d-7bb1e850b0ce"
+        },
+        {
+            "activation": true,
+            "created_at": "Tue, 23 Jan 2024 03:21:36 GMT",
+            "created_by": {
+                "first_name": "fname",
+                "last_name": "lname"
+            },
+            "expired": "Sun, 31 Dec 2023 23:59:59 GMT",
+            "personal_info": {
+                "email": "ugauga53245423s@mail.com",
+                "first_name": "aaaaa",
+                "last_name": "must come first",
+                "verify": false
+            },
+            "restriction": {
+                "area": [],
+                "booking": [],
+                "organization": []
+            },
+            "services": [
+                "Joey Doctor : Administrator"
+            ],
+            "user_id": "f4a4dfa0-6cad-44db-aa41-ef4627177a1f"
+        },
+        {
+            "activation": true,
+            "created_at": "Tue, 26 Dec 2023 04:46:06 GMT",
+            "created_by": {
+                "first_name": "",
+                "last_name": ""
+            },
+            "expired": "Fri, 26 Jan 2024 04:30:12 GMT",
+            "personal_info": {
+                "email": "",
+                "first_name": "เอโดงาวะ",
+                "last_name": "โคนัน",
+                "verify": false
+            },
+            "restriction": {
+                "area": {
+                    "DistrictIDs": [],
+                    "ProvinceIDs": [],
+                    "RegionIDs": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "SubDistrictIDs": []
+                },
+                "booking": [],
+                "organization": {
+                    "CompanyIDs": [],
+                    "DepartmentIDs": [],
+                    "PositionIDs": []
+                }
+            },
+            "services": [
+                "Joey Doctor : Doctor",
+                "Joey Doctor : Doctor",
+                "Joey Doctor : Doctor"
+            ],
+            "user_id": "d3930025-24c9-4f7f-b1ef-1c6bff270364"
+        },
+        {
+            "activation": true,
+            "created_at": "Tue, 26 Dec 2023 04:46:06 GMT",
+            "created_by": {
+                "first_name": "",
+                "last_name": ""
+            },
+            "expired": "Fri, 26 Jan 2024 04:30:12 GMT",
+            "personal_info": {
+                "email": "",
+                "first_name": "docterdude",
+                "last_name": "withnosignature",
+                "verify": false
+            },
+            "restriction": {
+                "area": {
+                    "DistrictIDs": [],
+                    "ProvinceIDs": [],
+                    "RegionIDs": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "SubDistrictIDs": []
+                },
+                "booking": [],
+                "organization": {
+                    "CompanyIDs": [],
+                    "DepartmentIDs": [],
+                    "PositionIDs": []
+                }
+            },
+            "services": [
+                "Joey Doctor : Doctor"
+            ],
+            "user_id": "99390f1a-176f-4dcb-8aa1-63cc62966a25"
+        }
+    ],
+    "status": "success",
+    "total_count": 7,
+    "total_page": 2
+}
