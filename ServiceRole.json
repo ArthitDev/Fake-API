@@ -1,0 +1,21 @@
+{
+    "data": [
+        {
+            "development_url": "https://dev-atlas.optimizecare.com",
+            "label": "Health Atlas",
+            "name": "health_atlas",
+            "production_url": "https://atlas.optimizecare.com",
+            "url": "https://dev-atlas.optimizecare.com",
+            "uuid": "e3c9d160-771f-42e8-aa84-4c09cc9120ad"
+        },
+        {
+            "development_url": "https://dev-patientportal.optimizecare.com",
+            "label": "Joey Doctor",
+            "name": "joey_doctor",
+            "production_url": "https://patientportal.optimizecare.com",
+            "url": "https://dev-patientportal.optimizecare.com",
+            "uuid": "1bad859a-877d-4cbd-b5d2-7de105b486fe"
+        }
+    ],
+    "status": "success"
+}
