@@ -1,0 +1,111 @@
+{
+    "data": [
+        {
+            "label": "hospital_setting",
+            "sub_features": [
+                {
+                    "name": "Hospital Information",
+                    "uuid": "b0c7d1a1-aa37-49f1-98c4-48d1a764ca74"
+                },
+                {
+                    "name": "Engage",
+                    "uuid": "2589a386-790e-4255-aca6-01fb6876ebae"
+                },
+                {
+                    "name": "Online Channel",
+                    "uuid": "d857fbed-6ee0-4ee3-bc38-6d0ffcb77794"
+                },
+                {
+                    "name": "Connectivities",
+                    "uuid": "14bf7ffa-9efc-4290-ab11-ad6cc9989caf"
+                },
+                {
+                    "name": "PDPA",
+                    "uuid": "7ba4aef1-0c50-4ba4-b0aa-cd9a38b05dec"
+                },
+                {
+                    "name": "Users Management",
+                    "uuid": "60d754bf-00bc-42fb-a5ce-606bc37bd2f8"
+                }
+            ],
+            "uuid": "d71f66b3-23f9-40b1-8e70-7c848f81970f"
+        },
+        {
+            "label": "campaign_management",
+            "sub_features": [
+                {
+                    "name": "Package Management",
+                    "uuid": "cd118a72-85e0-4c6b-94aa-14f153def313"
+                },
+                {
+                    "name": "Coupon & Appointment",
+                    "uuid": "4e7d9bf0-6a0b-4afe-917e-423dbe80a5d9"
+                },
+                {
+                    "name": "Promotion Code",
+                    "uuid": "a1a99b32-fc0d-4e17-af33-d19d8e42603e"
+                }
+            ],
+            "uuid": "a4529ca2-ef64-4af3-9df2-1f1a68b6ee2a"
+        },
+        {
+            "label": "checkup_manager",
+            "sub_features": [
+                {
+                    "name": "Prepare Data",
+                    "uuid": "2ff5d443-54e5-46c2-9137-2d96d0077c05"
+                },
+                {
+                    "name": "Check-in + Sale",
+                    "uuid": "142cd7bd-1d8c-4ece-8e5e-c0689e70fc1b"
+                },
+                {
+                    "name": "Patient Search",
+                    "uuid": "fbc96504-020b-4f4e-8201-7ba01aa295ab"
+                },
+                {
+                    "name": "Station Tracker",
+                    "uuid": "34a0ff20-1bce-44c0-a7c6-6d286ed7aeba"
+                }
+            ],
+            "uuid": "8438000a-08dc-4324-bcb8-81fe8f46618e"
+        },
+        {
+            "label": "report_automation",
+            "sub_features": [
+                {
+                    "name": "Health Station",
+                    "uuid": "747c26a0-5fe7-45d0-873b-78605894c586"
+                },
+                {
+                    "name": "Report Management",
+                    "uuid": "67eefaa9-0610-48a6-8e64-f49eef178a07"
+                },
+                {
+                    "name": "Corporate Health Analytics",
+                    "uuid": "c2f22f36-aceb-4efe-b2e3-6d0a2ba36436"
+                },
+                {
+                    "name": "Dashboard",
+                    "uuid": "54e5658f-a027-40eb-ad2e-0fe995c86a84"
+                }
+            ],
+            "uuid": "80167e9c-7f52-4989-8785-ccae04a9b06c"
+        },
+        {
+            "label": "setting",
+            "sub_features": [
+                {
+                    "name": "Medical Information",
+                    "uuid": "72575e62-e0ce-4cb6-90ae-0fe8de41081d"
+                },
+                {
+                    "name": "Lab Management",
+                    "uuid": "adf95a56-b50e-44b1-b37b-e1a2ae9e64b7"
+                }
+            ],
+            "uuid": "63e183ce-8971-441d-b0e5-f13cd617015c"
+        }
+    ],
+    "status": "success"
+}
