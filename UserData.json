@@ -9,7 +9,7 @@
       "addedname": "John",
       "added": "2024-05-02",
       "status": true,
-      "emailstatus": "verified",
+      "emailstatus": true,
       "phoneNumber": "+1 123-456-7890",
       "userId": "01be7a10-8c18-4fa5-b09e-35a1f520c1c1",
       "expiredDate": "2025-05-02"
@@ -23,7 +23,7 @@
       "addedname": "Ocare",
       "added": "2024-05-01",
       "status": false,
-      "emailstatus": "not_verified",
+      "emailstatus": false,
       "phoneNumber": "+1 234-567-8901",
       "userId": "7b6860ec-7396-4e25-9f63-f8982b4169ef",
       "expiredDate": ""
@@ -37,7 +37,7 @@
       "addedname": "Ocare",
       "added": "2024-04-30",
       "status": true,
-      "emailstatus": "verified",
+      "emailstatus": true,
       "phoneNumber": "+44 7456-123-789",
       "userId": "d47c8e51-2c33-48af-892c-5a123821ab09",
       "expiredDate": "2025-04-30"
@@ -51,7 +51,7 @@
       "addedname": "Ocare",
       "added": "2024-04-29",
       "status": true,
-      "emailstatus": "verified",
+      "emailstatus": true,
       "phoneNumber": "+61 4123-456-789",
       "userId": "45b48854-1f9e-4a1b-a9bb-d6ad7c1f8b7c",
       "expiredDate": "2025-04-29"
@@ -65,7 +65,7 @@
       "addedname": "SCB",
       "added": "2024-04-28",
       "status": false,
-      "emailstatus": "not_verified",
+      "emailstatus": false,
       "phoneNumber": "+81 9012-345-678",
       "userId": "74358e6d-ec6d-4845-b42f-f07b1b518e06",
       "expiredDate": ""
@@ -79,7 +79,7 @@
       "addedname": "Ocare",
       "added": "2024-04-27",
       "status": true,
-      "emailstatus": "verified",
+      "emailstatus": true,
       "phoneNumber": "+33 6123-456-789",
       "userId": "7e9ed02a-af49-4c5e-9477-f06ac77fa7b2",
       "expiredDate": "2025-04-27"
@@ -93,7 +93,7 @@
       "addedname": "SCB",
       "added": "2024-04-26",
       "status": true,
-      "emailstatus": "not_verified",
+      "emailstatus": false,
       "phoneNumber": "+49 173-456-7890",
       "userId": "e1ad4464-cc56-4518-bd47-26fb7a63bc14",
       "expiredDate": ""
@@ -107,7 +107,7 @@
       "addedname": "Ocare",
       "added": "2024-04-25",
       "status": false,
-      "emailstatus": "not_verified",
+      "emailstatus": false,
       "phoneNumber": "+61 4789-123-456",
       "userId": "14ef5878-bdcb-4e3a-8df4-4545959e3ab9",
       "expiredDate": ""
@@ -121,7 +121,7 @@
       "addedname": "Ocare",
       "added": "2024-04-24",
       "status": true,
-      "emailstatus": "verified",
+      "emailstatus": true,
       "phoneNumber": "+91 98765-43210",
       "userId": "b87fd0a7-71b8-4a78-bfb4-7d58bece749c",
       "expiredDate": "2025-04-24"
@@ -135,7 +135,7 @@
       "addedname": "Ocare",
       "added": "2024-04-23",
       "status": false,
-      "emailstatus": "verified",
+      "emailstatus": true,
       "phoneNumber": "+44 789-123-4567",
       "userId": "fbb43d77-655d-4bc0-9b9f-740f66640b9d",
       "expiredDate": ""
