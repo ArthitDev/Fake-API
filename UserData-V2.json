@@ -28,7 +28,7 @@
                     "PositionIDs": []
                 }
             },
-            "services": ["Joey Doctor : Administrator","Joey Doctor : Administrator","Joey Doctor : Administrator","Joey Doctor : Administrator","Joey Doctor : Administrator"],
+            "services": ["Joey Doctor : Administrator"],
             "user_id": "12345678-1234-5678-1234-567812345678"
         },
         {
@@ -308,10 +308,6 @@
                 }
             },
             "services": [
-                "Joey Doctor : Administrator",
-                "Setting : Administrator",
-                "Joey Doctor : Administrator",
-                "Joey Doctor : Administrator",
                 "Joey Doctor : Administrator"
             ],
             "user_id": "01234567-0123-4567-0123-456701234567"
