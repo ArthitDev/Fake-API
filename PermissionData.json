@@ -1,110 +1,111 @@
 {
     "data": [
         {
-            "label": "hospital_setting",
+            "label": "Hospital Setting",
+            "role": "joeydoctor_administrator",
             "sub_features": [
                 {
                     "name": "Hospital Information",
-                    "uuid": "b0c7d1a1-aa37-49f1-98c4-48d1a764ca74"
+                    "uuid": "18e39c6c-80ef-452c-a9ae-3a7e7c089e57"
                 },
                 {
                     "name": "Engage",
-                    "uuid": "2589a386-790e-4255-aca6-01fb6876ebae"
-                },
-                {
-                    "name": "Online Channel",
-                    "uuid": "d857fbed-6ee0-4ee3-bc38-6d0ffcb77794"
-                },
-                {
-                    "name": "Connectivities",
-                    "uuid": "14bf7ffa-9efc-4290-ab11-ad6cc9989caf"
+                    "uuid": "628b9690-9739-4aee-8d32-69b36cdc3a7a"
                 },
                 {
                     "name": "PDPA",
-                    "uuid": "7ba4aef1-0c50-4ba4-b0aa-cd9a38b05dec"
+                    "uuid": "a550fe8b-15f6-4e51-91fb-3c9c802bfa59"
+                },
+                {
+                    "name": "Online Channel",
+                    "uuid": "bbef8a03-53d5-44dc-8719-77c33ba3f05f"
+                },
+                {
+                    "name": "Connectivities",
+                    "uuid": "ca28c715-e5d7-44ec-9625-02717ff8d311"
                 },
                 {
                     "name": "Users Management",
-                    "uuid": "60d754bf-00bc-42fb-a5ce-606bc37bd2f8"
+                    "uuid": "55b71e78-540d-4849-b667-ba7f0b619854"
                 }
             ],
-            "uuid": "d71f66b3-23f9-40b1-8e70-7c848f81970f"
+            "uuid": "18e0c28a-43b6-44cd-bbf6-134f4c711e2f"
         },
         {
-            "label": "campaign_management",
-            "sub_features": [
-                {
-                    "name": "Package Management",
-                    "uuid": "cd118a72-85e0-4c6b-94aa-14f153def313"
-                },
-                {
-                    "name": "Coupon & Appointment",
-                    "uuid": "4e7d9bf0-6a0b-4afe-917e-423dbe80a5d9"
-                },
-                {
-                    "name": "Promotion Code",
-                    "uuid": "a1a99b32-fc0d-4e17-af33-d19d8e42603e"
-                }
-            ],
-            "uuid": "a4529ca2-ef64-4af3-9df2-1f1a68b6ee2a"
-        },
-        {
-            "label": "checkup_manager",
-            "sub_features": [
-                {
-                    "name": "Prepare Data",
-                    "uuid": "2ff5d443-54e5-46c2-9137-2d96d0077c05"
-                },
-                {
-                    "name": "Check-in + Sale",
-                    "uuid": "142cd7bd-1d8c-4ece-8e5e-c0689e70fc1b"
-                },
-                {
-                    "name": "Patient Search",
-                    "uuid": "fbc96504-020b-4f4e-8201-7ba01aa295ab"
-                },
-                {
-                    "name": "Station Tracker",
-                    "uuid": "34a0ff20-1bce-44c0-a7c6-6d286ed7aeba"
-                }
-            ],
-            "uuid": "8438000a-08dc-4324-bcb8-81fe8f46618e"
-        },
-        {
-            "label": "report_automation",
-            "sub_features": [
-                {
-                    "name": "Health Station",
-                    "uuid": "747c26a0-5fe7-45d0-873b-78605894c586"
-                },
-                {
-                    "name": "Report Management",
-                    "uuid": "67eefaa9-0610-48a6-8e64-f49eef178a07"
-                },
-                {
-                    "name": "Corporate Health Analytics",
-                    "uuid": "c2f22f36-aceb-4efe-b2e3-6d0a2ba36436"
-                },
-                {
-                    "name": "Dashboard",
-                    "uuid": "54e5658f-a027-40eb-ad2e-0fe995c86a84"
-                }
-            ],
-            "uuid": "80167e9c-7f52-4989-8785-ccae04a9b06c"
-        },
-        {
-            "label": "setting",
+            "label": "Setting",
+            "role": "joeydoctor_administrator",
             "sub_features": [
                 {
                     "name": "Medical Information",
-                    "uuid": "72575e62-e0ce-4cb6-90ae-0fe8de41081d"
+                    "uuid": "ea929763-02a1-431e-91b3-cfe479720230"
                 },
                 {
                     "name": "Lab Management",
-                    "uuid": "adf95a56-b50e-44b1-b37b-e1a2ae9e64b7"
+                    "uuid": "9eb00e62-1e8c-47d2-bd18-b70ebe3b71b7"
                 }
             ],
-            "uuid": "63e183ce-8971-441d-b0e5-f13cd617015c"
+            "uuid": "2c5f6130-44c1-425c-8e37-0b165feb179a"
+        },
+        {
+            "label": "Campaign Management",
+            "role": "joeydoctor_administrator",
+            "sub_features": [
+                {
+                    "name": "Package Management",
+                    "uuid": "b33f78ea-fc1b-4c03-98ef-cb856e4c2ba7"
+                },
+                {
+                    "name": "Coupon & Appointment",
+                    "uuid": "bac60df6-7083-4d5b-86fc-d7449fb5b80c"
+                }
+            ],
+            "uuid": "7282cc0a-14e5-47e5-b79c-854c9103d9fb"
+        },
+        {
+            "label": "Checkup Manager",
+            "role": "joeydoctor_administrator",
+            "sub_features": [
+                {
+                    "name": "Prepare Data",
+                    "uuid": "c10ae692-8f5a-4ce0-8fc8-b6c4ec5c50d9"
+                },
+                {
+                    "name": "Check-in + Sale",
+                    "uuid": "c49cebb0-702a-4163-adb9-0fcfd3b6400b"
+                },
+                {
+                    "name": "Patient Search",
+                    "uuid": "17fc4215-7ee8-4a82-bbcd-bbeee906b717"
+                },
+                {
+                    "name": "Station Tracker",
+                    "uuid": "7ddf6869-4fdd-4073-a74a-ab6075f336eb"
+                }
+            ],
+            "uuid": "18718b2e-4b71-49a8-a696-6536ff3cd666"
+        },
+        {
+            "label": "Report Automation",
+            "role": "joeydoctor_administrator",
+            "sub_features": [
+                {
+                    "name": "Health Station",
+                    "uuid": "9b277fb6-925c-48c2-a62c-85775e680097"
+                },
+                {
+                    "name": "Dashboard",
+                    "uuid": "7b42a7b9-cd51-41a7-8a87-ee00e785a3ec"
+                },
+                {
+                    "name": "Report Management",
+                    "uuid": "89d6e3db-16ef-4a84-b99d-e40f39836b5f"
+                },
+                {
+                    "name": "Corporate Health Analytics",
+                    "uuid": "5e6a57b1-7d8e-4271-9b96-c510c65979e9"
+                }
+            ],
+            "uuid": "796c2a47-c463-45b4-8004-96de766aac70"
         }
     ],
     "status": "success"
