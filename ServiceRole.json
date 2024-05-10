@@ -15,6 +15,14 @@
             "production_url": "https://patientportal.optimizecare.com",
             "url": "https://dev-patientportal.optimizecare.com",
             "uuid": "1bad859a-877d-4cbd-b5d2-7de105b486fe"
+        },
+        {
+            "development_url": "https://dev-atlas.optimizecare.com",
+            "label": "Corporate Connect",
+            "name": "corporate_connect",
+            "production_url": "https://atlas.optimizecare.com",
+            "url": "https://dev-setting.optimizecare.com",
+            "uuid": "77fef47f-a06c-4685-8845-64ede191326d"
         }
     ],
     "status": "success"
