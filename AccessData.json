@@ -15,10 +15,6 @@
         {
             "label": "Nurse/MT",
             "uuid": "900c334a-5b31-43aa-b62e-dd7c00b6ffe9"
-        },
-        {
-            "label": "Guest",
-            "uuid": "515e86b4-c7f9-4010-b1d2-9b28bca00fed"
         }
     ],
     "status": "success"
